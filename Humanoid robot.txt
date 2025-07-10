@@ -1,0 +1,54 @@
+Initialization
+
+Set all servo motors to neutral (standing) positions (e.g., hips, knees, and ankles at 90°).
+
+Calibrate the zero positions for stability.
+
+Loop Start – Begin Walking Cycle
+
+Lift Left Leg
+
+Bend left knee slightly (servo decrease to simulate foot lift).
+
+Tilt left hip forward (hip servo rotates leg forward).
+
+Adjust left ankle to keep foot horizontal.
+
+Move Left Leg Forward
+
+Swing left leg forward to a small step distance.
+
+Begin shifting center of gravity to the right leg.
+
+Place Left Leg Down
+
+Straighten the left knee (servo increases).
+
+Recenter the left ankle for flat foot contact.
+
+Shift Body Forward
+
+Slightly tilt the torso forward using upper servos (optional).
+
+Slightly adjust right ankle/hip to balance shift.
+
+Repeat for Right Leg
+
+Bend right knee and lift leg.
+
+Swing right leg forward.
+
+Straighten knee and stabilize ankle.
+
+Shift body weight to left leg.
+
+Loop Steps 3–7 for Continuous Walking
+
+Stopping
+
+Bring both feet side-by-side.
+
+Set all joints back to standing/idle position.
+
+Hold all positions.
+
